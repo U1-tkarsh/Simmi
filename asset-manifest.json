@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simmi/static/css/main.90ccb5b6.css",
+    "main.js": "/Simmi/static/js/main.eb0e1b91.js",
+    "static/js/787.487a7050.chunk.js": "/Simmi/static/js/787.487a7050.chunk.js",
+    "index.html": "/Simmi/index.html",
+    "main.90ccb5b6.css.map": "/Simmi/static/css/main.90ccb5b6.css.map",
+    "main.eb0e1b91.js.map": "/Simmi/static/js/main.eb0e1b91.js.map",
+    "787.487a7050.chunk.js.map": "/Simmi/static/js/787.487a7050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ccb5b6.css",
+    "static/js/main.eb0e1b91.js"
+  ]
+}
