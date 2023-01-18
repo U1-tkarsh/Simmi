@@ -1,0 +1,46 @@
+[
+    {
+    "id": 1,
+
+
+    "para1": "A lion's pride consists of a few adult males, related females, and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates.",
+
+
+    "image1": "image/internship.jpeg",
+
+    "tittle": "Internship",
+
+
+    "description1": "Typically, an internship consists of an exchange of services for experience between the intern and the organization."
+    },
+    {
+    "id": 3,
+
+
+    "para1": "A lion's pride consists of a few adult males, related females, and cubs. Groups of female lions usually hunt together.",
+
+
+    "image1": "image/lic.jpg",
+
+    "tittle": "LIC Premium",
+
+
+    "description1": "To know about installment premium, one can send SMS ASKLIC<policy number>PREMIUM to 56767877 from one's registered phone number"
+    },
+    {
+    "id": 2,
+
+
+    "para1": "A lion's pride consists of a few adult males, related females, and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates.",
+
+
+    "image1": "../image/lion.jpeg",
+
+    "tittle": "Lion's Pride",
+
+
+    "description1": "The lion inhabits grasslands, savannas and shrublands."
+    }
+
+    
+]
